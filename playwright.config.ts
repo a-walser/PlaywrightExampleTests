@@ -39,7 +39,7 @@ export default defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'], 
-        headless: false},
+        headless: true}, // Change this to false to see the test in action
     },
 
     /* Test against mobile viewports. */
