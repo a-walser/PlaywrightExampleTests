@@ -1,8 +1,9 @@
 # Playwright UI automation for A-walser.com
 
-### The purpose of this project is to serve as a small example of my UI automation and CI/CD knowledge, created in Playwright using Typescript, automated with Github Actions.
+### The purpose of this project is to serve as a small example of my UI automation and CI/CD knowledge 
+## Created in Playwright using Typescript, automated with Github Actions.
 
-This project consists of 2 basic tests created around the page https://a-walser.com/form
+This project consists of 2 basic tests created around the page https://a-walser.com/form.html
 
 The first test does a simple validation on the page title to confirm that the page is loaded.
 
